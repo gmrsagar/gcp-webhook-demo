@@ -5,8 +5,8 @@ provider:
   stage: dev
   runtime: nodejs16
   region: us-central1
-  project: webhook-proj
-  credentials: ~/.gcloud/ambient-sphere.json
+  project: ambient-sphere-401108
+  credentials: ~/.gcloud/creds.json
 
 frameworkVersion: '3'
 
